@@ -1,7 +1,7 @@
 var friendData = [
     {
         "name": "David",
-        "photo": "https://www.pexels.com/photo/adorable-animal-breed-canine-356378/",
+        "photo": "https://images.pexels.com/photos/1663421/pexels-photo-1663421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=250",
         "scores": [
             5,
             1,
@@ -17,7 +17,7 @@ var friendData = [
     },
     {
         "name": "John",
-        "photo": "https://www.pexels.com/photo/close-up-photo-of-dog-wearing-golden-crown-1663421/",
+        "photo": "https://images.pexels.com/photos/356378/pexels-photo-356378.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=250",
         "scores": [
             4,
             3,
@@ -33,7 +33,7 @@ var friendData = [
     },
     {
         "name": "Jeff",
-        "photo": "https://www.pexels.com/photo/adult-black-pug-1851164/",
+        "photo": "https://images.pexels.com/photos/39317/chihuahua-dog-puppy-cute-39317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=250",
         "scores": [
             3,
             3,
